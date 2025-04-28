@@ -1,3 +1,7 @@
+<p align="center">
+<img src="./boxer.svg" alt="Boxer Font Preview" width="250px">
+</p>
+
 # Boxer Typeface
 
 **Boxer** is a bold, geometric sans-serif typeface designed with strong rectangular forms and sharp angles. Its rugged and futuristic look makes it perfect for headlines, branding, posters, UI design, and gaming projects.
@@ -26,15 +30,20 @@
 ## Preview
 
 ![Boxer Font Sample](./preview.png)  
-*(Replace this with a real preview if you want.)*
+
+---
+
+## Downloads
+- [Boxer Regular (ZIP)](./Boxer-Regular.zip)
 
 ---
 
 ## Usage
 
 You can install the font by:
-1. Downloading the font file (`Boxer.ttf` or `Boxer.otf`).
-2. Double-clicking the file and clicking **Install**.
+1. Download the [ZIP file](./Boxer-Regular.zip)
+2. Unzip the file and place the `.ttf` or `.otf` file in your font folder
+3. Double-click on the font file and click **install** to install the font
 
 Use it in any design software like Figma, Photoshop, Illustrator, or directly in your web projects!
 
@@ -42,8 +51,8 @@ Use it in any design software like Figma, Photoshop, Illustrator, or directly in
 
 ## License
 
-This font is free for **personal and commercial** use.  
-*(Or you can write a custom license if you want like "You cannot resell it" etc.)*
+This font is free for **personal** use.  
+[MIT License](LICENSE)
 
 ---
 
@@ -52,6 +61,5 @@ This font is free for **personal and commercial** use.
 If you use Boxer in a project, I'd love to see it!  
 Feel free to share your creations or reach out:
 
-- Website: [Your website or portfolio link]
-- Email: [your.email@example.com]
-- Instagram: [@yourhandle]
+- Website: [rakeshkanna-rk.github.io](https://rakeshkanna-rk.github.io/)
+- Email: [rakeshkana0108@gmail.com](mailto:rakeshkana0108@gmail.com)
